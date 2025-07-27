@@ -65,9 +65,9 @@ https://campuslink-sece.vercel.app/
 
 ## 👨‍💻 Developers
 
-- 👨‍💻 **Joyandrew S** – *Full Stack Developer*
-- 🔧 **Elavarasan R** – *Backend Integration & Testing*
-- 🎨 **Dhusyanth S** – *Frontend & UI/UX Design*
-- 🔐 **Srisurya S** – *API Development & Authentication*
+- 👨‍💻 **Joyandrew S**
+- 🔧 **Elavarasan R**
+- 🎨 **Dhusyanth S** 
+- 🔐 **Srisurya S** 
 
 
